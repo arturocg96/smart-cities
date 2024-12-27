@@ -1,0 +1,61 @@
+# Flutter/Dart specific
+*.dart_tool/
+*.packages
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.generated/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# IntelliJ related files
+.idea/
+*.iml
+
+# Android specific
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/*.keystore
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.generated/
+*.xcworkspace/
+*.xcuserdata/
+
+# Web specific
+web/.sass-cache/
+
+# macOS specific
+macos/Flutter/ephemeral/
+
+# Linux specific
+linux/flutter/generated_plugin_registrant.cc
+
+# Windows specific
+windows/flutter/generated_plugin_registrant.cc
+
+# Firebase specific
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+# General
+*.log
+*.lock
+.DS_Store
+*.swp
+.idea/
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+*.ipr
+*.iws
+*.pyc
+*.pyo
+*.sqlite
